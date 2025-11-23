@@ -7,7 +7,7 @@ export const BRAND_PROFILE: BrandProfile = {
   // Updated Bio
   bio: "خدمات رقمية تسهلك تجربتك 🎀\nSnapchat Premium، Netflix، Canva ✨\nبأسعار رمزية.. خلي حياتك أسهل وديجيتال أكثر 💗",
   cta: "👇 انضمي لعالمنا الرقمي وتابعي جديدنا 👇",
-  avatarUrl: "logo.png", 
+  avatarUrl: "/logo.png", 
   contactEmail: "contact@innova-digital.com"
 };
 
